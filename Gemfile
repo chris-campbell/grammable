@@ -29,6 +29,7 @@ gem 'bootstrap', '4.0.0.alpha6'
 gem 'jquery-rails'
 gem 'popper_js', '~> 1.11.1'
 gem 'tether-rails'
+gem 'simple_form'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
